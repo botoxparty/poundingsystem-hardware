@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name NokiaLCD)(type KiCad)(uri "${KIPRJMOD}/Libraries/Footprints/Nokia 5110 LCD.pretty")(options "")(descr "Nokia 5110 LCD"))
+  (lib (name CherryMX)(type KiCad)(uri ${KIPRJMOD}/Libraries/Footprints/Cherry-MX-Low-Profile.pretty)(options "")(descr ""))
+  (lib (name AudioPJ-320B)(type KiCad)(uri ${KIPRJMOD}/Libraries/Footprints/AudioPJ-320B.pretty)(options "")(descr ""))
+)
