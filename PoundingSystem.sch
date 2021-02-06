@@ -373,14 +373,6 @@ F 4 "C23630" H 17330 2760 50  0001 C CNN "LCSC Part #"
 	1    17330 2760
 	0    -1   -1   0   
 $EndComp
-Wire Notes Line
-	10520 1010 16170 1010
-Wire Notes Line
-	21860 1340 21860 6540
-Wire Notes Line
-	16690 10790 11040 10790
-Wire Notes Line
-	10520 6210 10520 1010
 Text Notes 10520 960  0    50   ~ 0
 Microcontroller
 $Comp
@@ -452,7 +444,7 @@ F 0 "U3" H 3580 3515 50  0000 C CNN
 F 1 "USBLC6-2SC6" H 3780 3615 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-6" H 3430 3465 50  0001 C CNN
 F 3 "https://www.st.com/resource/en/datasheet/usblc6-2.pdf" H 3630 4315 50  0001 C CNN
-F 4 "C558442" H 3430 3965 50  0001 C CNN "LCSC Part #"
+F 4 "C7519" H 3430 3965 50  0001 C CNN "LCSC Part #"
 	1    3430 3965
 	1    0    0    -1  
 $EndComp
@@ -4051,6 +4043,7 @@ F 0 "U13" H 20440 1880 50  0000 C CNN
 F 1 "STM32H743IITx" H 20420 1780 50  0000 C CNN
 F 2 "Package_QFP:LQFP-176_24x24mm_P0.5mm" H 18200 1960 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf" H 19400 6260 50  0001 C CNN
+F 4 "C89597" H 19400 6260 50  0001 C CNN "LCSC Part #"
 	1    19400 6260
 	1    0    0    -1  
 $EndComp
@@ -4624,4 +4617,12 @@ F 3 "" H 10990 1910 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 10990 1910
+Wire Notes Line
+	22410 980  22410 11330
+Wire Notes Line
+	22410 11330 10530 11330
+Wire Notes Line
+	10530 11330 10530 980 
+Wire Notes Line
+	10530 980  22410 980 
 $EndSCHEMATC
