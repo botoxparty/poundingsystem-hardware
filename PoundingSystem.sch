@@ -869,9 +869,9 @@ TIM5_CH1
 Text GLabel 15090 12820 2    50   Input ~ 0
 TIM5_CH2
 Text GLabel 7510 1970 0    50   Input ~ 0
-SPI3_MOSI
+SPI4_MOSI
 Text GLabel 7510 2070 0    50   Input ~ 0
-SPI3_SCK
+SPI4_SCK
 $Comp
 L Device:C_Small C21
 U 1 1 5FF38C01
@@ -3875,9 +3875,9 @@ FIRE_LED
 Text GLabel 20800 3860 2    50   Input ~ 0
 HOLD_SW
 Text GLabel 20800 9160 2    50   Input ~ 0
-SPI3_SCK
+SPI4_SCK
 Text GLabel 20800 9560 2    50   Input ~ 0
-SPI3_MOSI
+SPI4_MOSI
 $Comp
 L Device:C_Small C59
 U 1 1 60AB99FE
