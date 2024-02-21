@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP3008-I_SL")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCP3008_I_SL/MCP3008-I_SL.kicad_sym")(options "")(descr ""))
+)
